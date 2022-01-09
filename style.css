@@ -1,0 +1,55 @@
+#float-right {
+  float: right;
+}
+
+#float-left {
+  float: left;
+}
+
+body {
+  background-color: #00c2cb;
+  font-family: 'Inter';
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  padding-left: 50px;
+}
+
+#top {
+  padding-top: 400px;
+}
+
+p {
+  padding-left: 50px;
+  font-size: 20px;
+  color: white;
+}
+
+#next {
+  display:inline-block;
+}
+
+#logo {
+  display: inline-block;
+  float: right;
+}
+
+#mask {
+  background-image: url("maskbackground.png");
+}
+
+.bottombuttons {
+  background-color: #a5c1e0; /* Green */
+  border: none;
+  color: white;
+  padding: 22px 48px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  font-family: 'Inter';
+}
+
+
